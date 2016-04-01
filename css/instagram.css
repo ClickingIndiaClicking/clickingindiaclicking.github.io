@@ -1,0 +1,73 @@
+.version.instagram /* version checker */
+{
+	color: #000008;
+	background-color: #38EA39;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+	background: -webkit-gradient(linear, left center, right center, from(#7F7F7F),color-stop(100%, #007F0F));
+	background: -webkit-linear-gradient(left,#7F7F7F ,#007F0F 100%);
+	background: linear-gradient(to right,#7F7F7F ,#007F0F 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF7F7F7F, endColorstr=#FF007F0F, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF7F7F7F', endColorstr='#FF007F0F', GradientType=1)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 712px;
+	min-height: 183px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-left: 76px;
+	padding-right: 172px;
+	padding-bottom: 317px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u191-4
+{
+	z-index: 2;
+	width: 574px;
+	min-height: 88px;
+	background-color: transparent;
+	line-height: 72px;
+	color: #FFFFFF;
+	font-size: 60px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	margin-left: 138px;
+	position: relative;
+}
+
+#u194-5
+{
+	z-index: 6;
+	width: 317px;
+	min-height: 42px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	margin-top: 53px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

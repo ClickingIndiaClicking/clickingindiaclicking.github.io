@@ -1,0 +1,358 @@
+.version.about_us /* version checker */
+{
+	color: #000014;
+	background-color: #CFE590;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/papersco-sa34-blue-sea-yellow-sky-blur-24-wallpaper.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -196px;
+	width: 0.01px;
+}
+
+#pu162
+{
+	width: 0.01px;
+	margin-left: 31px;
+}
+
+#u162
+{
+	z-index: 39;
+	width: 115px;
+	margin-right: -10000px;
+}
+
+#menuu111
+{
+	z-index: 2;
+	width: 742px;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 186px;
+}
+
+#u112
+{
+	width: 107px;
+	min-height: 43px;
+	margin-right: -10000px;
+}
+
+#u113
+{
+	width: 107px;
+	padding-bottom: 14px;
+}
+
+#u113:hover
+{
+	width: 107px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u113:active
+{
+	width: 107px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u113.MuseMenuActive
+{
+	width: 107px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u115-4_clip
+{
+	width: 73px;
+	height: 29px;
+}
+
+#u119
+{
+	width: 146px;
+	min-height: 43px;
+	margin-right: -10000px;
+	left: 109px;
+}
+
+#u122
+{
+	width: 146px;
+	padding-bottom: 14px;
+}
+
+#u122:hover
+{
+	width: 146px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u122:active
+{
+	width: 146px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u122.MuseMenuActive
+{
+	width: 146px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u125-4_clip
+{
+	width: 112px;
+	height: 29px;
+}
+
+#u127
+{
+	width: 160px;
+	min-height: 43px;
+	margin-right: -10000px;
+	left: 257px;
+}
+
+#u130
+{
+	width: 160px;
+	padding-bottom: 13px;
+}
+
+#u130:hover
+{
+	width: 160px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u130:active
+{
+	width: 160px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u130.MuseMenuActive
+{
+	width: 160px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u132-4_clip
+{
+	width: 126px;
+	height: 30px;
+}
+
+#u134
+{
+	width: 103px;
+	min-height: 43px;
+	margin-right: -10000px;
+	left: 419px;
+}
+
+#u135
+{
+	width: 103px;
+	padding-bottom: 14px;
+}
+
+#u135:hover
+{
+	width: 103px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u135:active
+{
+	width: 103px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u135.MuseMenuActive
+{
+	width: 103px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u136-4_clip
+{
+	width: 69px;
+	height: 29px;
+}
+
+#u141
+{
+	width: 88px;
+	min-height: 43px;
+	margin-right: -10000px;
+	left: 524px;
+}
+
+#u144
+{
+	width: 88px;
+	padding-bottom: 13px;
+}
+
+#u144:hover
+{
+	width: 88px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u144:active
+{
+	width: 88px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u144.MuseMenuActive
+{
+	width: 88px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u146-4_clip
+{
+	width: 54px;
+	height: 30px;
+}
+
+#u115-4,#u125-4,#u132-4,#u136-4,#u146-4
+{
+	margin-right: -10000px;
+	top: 7px;
+	left: 17px;
+}
+
+#u148
+{
+	width: 128px;
+	min-height: 43px;
+	margin-right: -10000px;
+	left: 614px;
+}
+
+#u151
+{
+	width: 128px;
+	padding-bottom: 14px;
+}
+
+#u151:hover
+{
+	width: 128px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u151:active
+{
+	width: 128px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u151.MuseMenuActive
+{
+	width: 128px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u154-4_clip
+{
+	width: 95px;
+	height: 29px;
+}
+
+#u154-4
+{
+	margin-right: -10000px;
+	top: 7px;
+	left: 16px;
+}
+
+#u183-4
+{
+	z-index: 51;
+	margin-left: 252px;
+	margin-top: 85px;
+}
+
+#u173
+{
+	z-index: 41;
+	width: 525px;
+	margin-left: 229px;
+	margin-top: 23px;
+}
+
+#u179-4
+{
+	z-index: 43;
+	width: 821px;
+	min-height: 144px;
+	margin-left: 127px;
+	margin-top: 45px;
+}
+
+#u180-4
+{
+	z-index: 47;
+	width: 409px;
+	min-height: 27px;
+	margin-left: 308px;
+	margin-top: 132px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 220px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

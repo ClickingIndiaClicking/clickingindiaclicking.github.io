@@ -1,0 +1,38 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="clickingindiaclicking.github.io" resolutions="1x" timestamp="1451942571878">
+  <folder name="css">
+    <file name="site_global.css" crc="453856629"/>
+    <file name="master_a-master.css" crc="3785252292" ref="about-us:contact:index"/>
+    <file name="about-us.css" crc="349169040" ref="about-us"/>
+    <file name="blog.css" crc="112180619" ref="blog"/>
+    <file name="instagram.css" crc="137947705" ref="instagram"/>
+    <file name="contact.css" crc="349169040" ref="contact"/>
+    <file name="index.css" crc="349169040" ref="index"/>
+    <file name="event.css" crc="112180619" ref="event"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:instagram:event:blog:contact"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-us:instagram:event:blog:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:about-us:contact"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-us:contact"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-us:instagram:event:blog:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:instagram:event:blog:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="clicking india clicking logo (instagram profile).png" crc="4078392113" seo="true" ref="index:about-us:contact"/>
+    <file name="u115-4.png" crc="3867440250" ref="index:about-us:contact"/>
+    <file name="u125-4.png" crc="3830300119" ref="index:about-us:contact"/>
+    <file name="u132-4.png" crc="4157399321" ref="index:about-us:contact"/>
+    <file name="u136-4.png" crc="525960730" ref="index:about-us:contact"/>
+    <file name="u146-4.png" crc="4093844923" ref="index:about-us:contact"/>
+    <file name="u154-4.png" crc="3912240300" ref="index:about-us:contact"/>
+    <file name="coming soon banner-01.jpg" crc="4065083175" seo="true" ref="index:about-us:contact"/>
+    <file name="papersco-sa34-blue-sea-yellow-sky-blur-24-wallpaper.jpg" crc="4165889626" ref="index:about-us:contact"/>
+    <file name="u183-4.png" crc="401712721" ref="index:about-us:contact"/>
+  </folder>
+  <file name="index.html" crc="88365214" seo="true" mt="1451942541201" redirect="true"/>
+  <file name="about-us.html" crc="123470528" seo="true" mt="1451942541201" redirect="true"/>
+  <file name="instagram.html" crc="28696185" seo="true" mt="1451942221295" redirect="true"/>
+  <file name="event.html" crc="3842140453" seo="true" mt="1451584172301" redirect="false"/>
+  <file name="blog.html" crc="4272909372" seo="true" mt="1451584177577" redirect="false"/>
+  <file name="contact.html" crc="4278334910" seo="true" mt="1451942541201" redirect="true"/>
+</manifest>
